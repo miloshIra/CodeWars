@@ -6,7 +6,7 @@ def getCountwrong(asd): #!WRONG
     return num
     print(num)
 
-  # This is wrong, use "in" instead of "==" with no brackets and no ,.
+  # This is wrong, use "in" instead of "==" with no brackets and no ,. Using strings directly.
 
 def getCount(asd): # !RIGHT
     num=0
