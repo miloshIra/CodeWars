@@ -11,4 +11,4 @@ def remove_vowels(string):
 remove_vowel("This is so fcking awesome")
 
 def disemvowel(s):
-    return s.translate(None, "aeiouAEIOU") # best practise award .. check out .translate method
+    return s.translate(None, "aeiouAEIOU") # best practise award .. check out .translate method check enumerate function for counters.
